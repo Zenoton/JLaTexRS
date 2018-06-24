@@ -1,8 +1,8 @@
-# JLaTexRS
-A open source Java implementation of LaTex Reporting Services based on the specifications found [here](https://github.com/campell1212/LaTexRS).
+# ![Alt text](https://raw.githubusercontent.com/Zenoton/JLaTexRS/master/assets/logo-jlatexrs.svg?sanitize=true)
+A open source Java implementation of ![Alt text](https://raw.githubusercontent.com/Zenoton/LaTexRS/master/assets/logo-LaTexRS-small.svg?sanitize=true) based on the specifications found [here](https://github.com/Zenoton/LaTexRS).
 
 ## Install
-To install JLaTexRS...
+To install ![Alt text](https://raw.githubusercontent.com/Zenoton/JLaTexRS/master/assets/logo-JLaTexRS-small.svg?sanitize=true)...
 ## Accessing
 ### Adding/Removing reports
 1. Navigate to the administration web interface found usually [http://localhost:5454/admin](http://localhost:5454/admin)
